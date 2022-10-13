@@ -1,4 +1,6 @@
-# Chrome Extension Webpack Boilerplate
+윤모
+
+<!-- # Chrome Extension Webpack Boilerplate
 
 A basic foundation boilerplate for rich Chrome Extensions using [Webpack](https://webpack.github.io/) to help you write modular and modern Javascript code, load CSS easily and [automatic reload the browser on code changes](https://webpack.github.io/docs/webpack-dev-server.html#automatic-refresh).
 
@@ -110,4 +112,4 @@ ApiCall({ key: secrets.key });
 4. Make sure to commit in the same style that we are committing until now on the project.
 
 -------------
-Samuel Simões ~ [@samuelsimoes](https://twitter.com/samuelsimoes) ~ [Blog](http://blog.samuelsimoes.com/)
+Samuel Simões ~ [@samuelsimoes](https://twitter.com/samuelsimoes) ~ [Blog](http://blog.samuelsimoes.com/) -->
